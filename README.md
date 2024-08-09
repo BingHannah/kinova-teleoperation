@@ -99,7 +99,7 @@ Paper: Available in the paper/ directory.
 This project was supported by [funding agency]. Special thanks to the team at [Institution Name] for their contributions and support throughout the project.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more information.
+This project is licensed under the GNU General Public License v3.0. See the LICENSE file for more information.
 
 ## Contact
 For any questions or collaboration inquiries, please contact:
