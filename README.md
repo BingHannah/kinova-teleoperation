@@ -1,4 +1,4 @@
-# Teleoperating-a-Kinova-Robot-Arm-Through-Real-time-Human-Arm-Motion-Imitation
+# Teleoperating a Kinova Robot Arm Through Real-time Human Arm Motion Imitation
 
 ## Overview
 
@@ -47,7 +47,7 @@ Ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/kinova-teleoperation.git
+   git clone https://github.com/HannahSu6/kinova-teleoperation.git
    cd kinova-teleoperation
    
 2. Install the required Python packages:
