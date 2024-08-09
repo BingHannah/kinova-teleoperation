@@ -15,6 +15,7 @@ This repository contains the code and documentation for the research paper title
   - [Simulation](#simulation)
   - [Physical Experiment](#physical-experiment)
 - [Results](#results)
+- [Poster and Paper](#poster-and-paper)
 - [Acknowledgments](#acknowledgments)
 - [License](#license)
 - [Contact](#contact)
@@ -28,6 +29,8 @@ The repository is organized as follows:
 - **`figures/`**: Figures used in the research paper, including diagrams and experiment results.
 - **`config/`**: Configuration files for ROS and other setup details.
 - **`experiments/`**: Scripts and data for the experiments conducted with the Kinova Gen-3 robot arm.
+- **`poster/`**: The poster presented at conferences or workshops.
+- **`paper/`**: The research paper published as part of this project.
 
 ## Installation
 
@@ -85,6 +88,12 @@ For physical experiments with the Kinova Gen-3 robot arm:
 
 ## Results
 The experimental results demonstrate the effectiveness of the developed algorithms in mimicking human arm postures and achieving precise end-effector control. The results are documented in the results/ directory and include both simulation data and real-world experiment logs.
+
+## Poster and Paper
+You can find the poster and paper related to this project in the respective directories:
+
+Poster: Available in the poster/ directory.
+Paper: Available in the paper/ directory.
 
 ## Acknowledgments
 This project was supported by [funding agency]. Special thanks to the team at [Institution Name] for their contributions and support throughout the project.
