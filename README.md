@@ -104,7 +104,7 @@ This project is licensed under the GNU General Public License v3.0. See the LICE
 ## Contact
 For any questions or collaboration inquiries, please contact:
 
-Author1: [email@address.edu]
+Author1: [Qin.Su@uky.edu]
 Author2: [email@address.edu]
 
 You can also watch a video demonstration of our experiments on YouTube here:
